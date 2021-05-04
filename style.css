@@ -1,0 +1,28 @@
+h1 {
+  margin: 270px 0 0;
+  font-size: 480%;
+}
+
+h2 {
+  font-size: 250%;
+}
+
+h3 {
+  margin: 120px 0 0;
+}
+
+.slide {
+	background-image: url(./img/bg.png);
+}
+
+.cover {
+	background-image: url(./img/cover.png);
+}
+
+.hitcon1 {
+	background-image: url(./img/hitcon1.jpg);
+}
+
+.hitcon2 {
+	background-image: url(./img/hitcon2.png);
+}
